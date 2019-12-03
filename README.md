@@ -345,15 +345,6 @@ Chrome extension which helps you not to miss important changes in your news thre
  ![After](https://raw.githubusercontent.com/greybax/github-extension-my-repo-news/master/images/after.png)
 </details>
 
-### [GitHub News Pics](https://github.com/surdu/github-news-pics) <a href="https://chrome.google.com/webstore/detail/github-news-pics/fkdieaaoplknkhnhbfmbacphglmenppg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Show pictures for all entries in the news feed on GitHub's dashboard
-
-<details><summary>Screenshots</summary>
-
- ![](https://cloud.githubusercontent.com/assets/11520795/22998679/79690376-f3e0-11e6-8623-d96e565e1878.jpg)
-</details>
-
 ### [OctoTab](https://github.com/lockys/Octotab.crx) <a href="https://chrome.google.com/webstore/detail/octotab/llfamhakdognknlckipgfkmikollbeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 ⚒ A super tiny chrome extension making your GitHub news feed more organized
